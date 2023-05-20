@@ -1,0 +1,1 @@
+-1 #\:[floor*[reverse til m;%[%[count _[n;last L];2];-1+m:count L]];" "],'L:" "sv/:$[n:max count each raze L;L:($)$["J";first .z.x]{1,_[-1;x+next x],1}\1#1];exit 0;
