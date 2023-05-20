@@ -1,3 +1,3 @@
-q script.q -q 1\\
-q script.q -q 20
-q script.q -q 30
+q script.q -q 1\n
+q script.q -q 20\n
+q script.q -q 30\n
