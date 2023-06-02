@@ -1,12 +1,12 @@
 Prints Pascal's triangle.<br>
 Examples runs;<br>
 $ q script.q -q 5<br>
-       1
-      1  1
-    1  2  1
-   1  3  3  1
- 1  4  6  4  1
-1  5  10 10 5  1
+       1<br>
+      1  1<br>
+    1  2  1<br>
+   1  3  3  1<br>
+ 1  4  6  4  1<br>
+1  5  10 10 5  1<br>
 q script.q -q 20<br>
                                                                       1
                                                                   1      1
